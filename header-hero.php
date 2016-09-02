@@ -14,7 +14,7 @@
 		
 		<!-- If Site Icon isn't set in customizer -->
 		<?php if ( ! function_exists( 'has_site_icon' ) || ! has_site_icon() ) { ?>
-			<!-- Icons & Favicons -->
+			<!-- Icons & Favicons --
 			<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/favicon.png">
 			<link href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-icon-touch.png" rel="apple-touch-icon" />
 			<!--[if IE]>
@@ -26,6 +26,7 @@
 	    <?php } ?>
 
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700|Source+Sans+Pro:400,700" rel="stylesheet">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
 		<?php wp_head(); ?>
