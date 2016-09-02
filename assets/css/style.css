@@ -4285,3 +4285,17 @@ to display none.
 
 .share-book .google {
   background: #183030; }
+
+.footer {
+  text-align: center; }
+
+.page-template-hero-homepage #content #inner-content {
+  padding: 1rem 7rem; }
+
+.Family_First_Art {
+  width: 81%;
+  margin-bottom: 24px; }
+
+@media only screen and (max-width: 640px) {
+  .page-template-hero-homepage #content #inner-content {
+    padding: 1rem 1rem; } }
