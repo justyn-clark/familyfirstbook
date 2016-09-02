@@ -81,11 +81,15 @@ should support and honor their wives as the role models of warmth,
     <img class="thumbnail" src="http://placehold.it/200x200">
     </div>
     <div class="media-object-section">
-    <p>“I became a father at a young age, and it took me years to find my rhythm.
+    <p>“Curtis is someone who seeks to be successful in all aspects of his life.
 
-    I wish I had read Family First right off the bat!”
+    He has already written about being a successful professional, and Fam-
+ily First is his first foray into writing about what it takes to be a devoted
 
-<h5><strong>Metta World Peace</strong> | Los Angeles Lakers<h5></p>
+father and loving husband. His book provides wonderful stories and in-
+    sights that are valuable to anyone who is a parent or spouse.”
+
+<h5><strong>Greg Oberland</strong> | President of Northwestern Mutual<h5></p>
 </div>
 </div>
 
@@ -94,10 +98,51 @@ should support and honor their wives as the role models of warmth,
     <img class="thumbnail" src="http://placehold.it/200x200">
     </div>
     <div class="media-object-section">
-    <p>“I became a father at a young age, and it took me years to find my rhythm.I wish I had read Family First right off the bat!”
-<h5><strong>Metta World Peace</strong> | Los Angeles Lakers<h5></p>
+    <p>“Curtis Estes is successful in the financial sense, but what about his family?
+
+    His book, Family First, chronicles another aspect of his life, as he comes
+
+to realize there is something more important than living the comfortable
+
+American life. His transparent and forthright efforts to become a humble
+
+husband and proactive father will inspire you. I am grateful to know Cur-
+tis and to support his new discovery.”
+<h5><strong>Ken Canfield</strong> | Ph.D., founder of the National Center for Fathering<h5></p>
+</div>
 </div>
 
+     <div class="media-object stack-for-small">
+    <div class="media-object-section">
+    <img class="thumbnail" src="http://placehold.it/200x200">
+    </div>
+    <div class="media-object-section">
+    <p>“A powerful reminder that being a parent and husband isn’t about the
+
+work/family balance, but about the prioritization of everything.”
+
+<h5><strong>Jeff Stibel</strong> | Vice chairman of Dun and Bradstreet<h5></p>
+</div>
+</div>
+
+<div class="media-object stack-for-small">
+    <div class="media-object-section">
+    <img class="thumbnail" src="http://placehold.it/200x200">
+    </div>
+    <div class="media-object-section">
+    <p>“In many areas, men strive to be the best—world-class, even—but life can
+
+get in the way of being great husbands and fathers. With an unmatched
+
+boldness and a genuine desire to seek the truth, Curtis Estes sets out to
+
+give his family his very best, just as God would have us all do in our most
+
+important leadership role as husbands and fathers.”
+
+<h5><strong>Dave McLurg</strong> | Chief Executive Officer
+of the National Center for Fathering<h5></p>
+</div>
 </div>
 
 </section>
