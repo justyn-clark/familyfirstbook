@@ -1,3 +1,35 @@
 .menu > li > a {
     color: $black;
 }
+
+.share-book {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.share-book a {
+    text-align: center;
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    margin: 0 6px;
+    border-radius: 150px;
+    color: #fff;
+}
+.share-book a:hover {
+    background: #e0c9a8;
+    color: #090f15;
+}
+.share-book .facebook {
+    background: #3c6868;
+}
+.share-book .twitter {
+    background: #374e58;
+}
+.share-book .pinterest {
+    background: #747f7a;
+}
+.share-book .google {
+    background: #183030;
+}
