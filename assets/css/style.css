@@ -2115,12 +2115,12 @@ select {
   padding: 0.85em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  background-color: #2199e8;
+  background-color: #cacaca;
   color: #fefefe; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
-    background-color: #1583cc;
+    background-color: #acacac;
     color: #fefefe; }
   .button.tiny {
     font-size: 0.6rem; }
@@ -4001,12 +4001,12 @@ POSTS & CONTENT STYLES
   padding: 0.85em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  background-color: #2199e8;
+  background-color: #cacaca;
   color: #fefefe; }
   [data-whatinput='mouse'] .post-password-form input[type="submit"] {
     outline: 0; }
   .post-password-form input[type="submit"]:hover, .post-password-form input[type="submit"]:focus {
-    background-color: #1583cc;
+    background-color: #acacac;
     color: #fefefe; }
 
 /*********************
@@ -4268,7 +4268,8 @@ to display none.
   line-height: 42px;
   margin: 0 6px;
   border-radius: 150px;
-  color: #fff; }
+  color: #fff;
+  padding: 13px; }
 
 .share-book a:hover {
   background: #e0c9a8;

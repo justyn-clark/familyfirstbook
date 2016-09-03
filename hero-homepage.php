@@ -4,11 +4,10 @@
  */
     ?>
 
-
+<span id="top"></span>
 <?php get_header('hero'); ?>
 
 <div id="content">
-
     <div id="inner-content" class="row">
 
     <main id="main" class="large-12 medium-12 columns" role="main">
@@ -44,7 +43,8 @@ a wonderful year of exciting growth for you and your family!
     With deepest respect for you and the journey we share.</p>
 
     </div>
-<hr>
+
+    <hr>
 <section id="about">
 <div class="large-12 columns text-center" >
     <h2>ABOUT THE BOOK</h2>
@@ -58,7 +58,12 @@ should support and honor their wives as the role models of warmth,
 </p>
 </div>
     </section>
-<hr>
+
+<div class="text-center"><a href="#top" class="small button">TOP</a></div>
+
+
+    <hr>
+
 <section id="reviews">
 <div class="reviews">
     <h2>REVIEWS</h2>
@@ -156,8 +161,8 @@ of the National Center for Fathering<h5></p>
     <a href="https://plus.google.com/share?url=http://familyfirstbook.com/" onclick="javascript:window.open(this.href,
 '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" class="google"><i class="fa fa-google-plus"></i></a>
 </div>
-</div>
 
+<div class="text-center"><a href="#top" class="small button">TOP</a></div>
 
 </main> <!-- end #main -->
 
