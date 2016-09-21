@@ -9,7 +9,7 @@ CSS file.
 ******************************************************************/
 
 // Import custom mixins
-@import "mixins";
+//@import "mixins";
 
 // Import local Foundation overrides - Don't link to Bower version as it will be overwritten whenever updated
 @import "settings";
@@ -23,13 +23,13 @@ CSS file.
 //@include motion-ui-animations;
 
 // Select the components you want to use
-@include foundation-global-styles;
-@include foundation-grid;
+  @include foundation-global-styles;
+  @include foundation-grid;
 //@include foundation-flex-classes;
 //@include foundation-flex-grid;
-@include foundation-typography;
-@include foundation-forms;
-@include foundation-button;
+  @include foundation-typography;
+  @include foundation-forms;
+  @include foundation-button;
 //@include foundation-visibility-classes;
 //@include foundation-float-classes;
 //@include foundation-accordion;
@@ -64,13 +64,13 @@ CSS file.
 
 
 // Import your custom styles
-@import "main";
+  @import "main";
 
 // Import your retina/HD styles
-@import "2x";
+  @import "2x";
 
 // Import your print styles
-@import "print";
+  @import "print";
 
 // Import MY Shizz
-@import "custom";
+  @import "custom";
