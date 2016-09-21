@@ -13,7 +13,7 @@
 				    
 				<?php endwhile; ?>	
 
-					<?php joints_page_navi(); ?>
+					<?php family_page_navi(); ?>
 					
 				<?php else : ?>
 											
