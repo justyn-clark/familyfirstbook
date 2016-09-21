@@ -61,16 +61,15 @@ should support and honor their wives as the role models of warmth,
 
 <div class="text-center"><a href="#top" class="small button">TOP</a></div>
 
-
     <hr>
 
+<!-- REVIEWS -->
 <section id="reviews">
 <div class="reviews">
     <h2>REVIEWS</h2>
     <div class="media-object stack-for-small">
     <div class="media-object-section">
-    <img class="thumbnail" src="http://placehold.it/200x200">
-    </div>
+     </div>
     <div class="media-object-section">
 
 <p>“I became a father at a young age, and it took me years to find my rhythm.
@@ -83,8 +82,7 @@ should support and honor their wives as the role models of warmth,
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-    <img class="thumbnail" src="http://placehold.it/200x200">
-    </div>
+     </div>
     <div class="media-object-section">
     <p>“Curtis is someone who seeks to be successful in all aspects of his life.
 
@@ -100,8 +98,7 @@ father and loving husband. His book provides wonderful stories and in-
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-    <img class="thumbnail" src="http://placehold.it/200x200">
-    </div>
+     </div>
     <div class="media-object-section">
     <p>“Curtis Estes is successful in the financial sense, but what about his family?
 
@@ -119,8 +116,7 @@ tis and to support his new discovery.”
 
      <div class="media-object stack-for-small">
     <div class="media-object-section">
-    <img class="thumbnail" src="http://placehold.it/200x200">
-    </div>
+     </div>
     <div class="media-object-section">
     <p>“A powerful reminder that being a parent and husband isn’t about the
 
@@ -132,8 +128,7 @@ work/family balance, but about the prioritization of everything.”
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-    <img class="thumbnail" src="http://placehold.it/200x200">
-    </div>
+     </div>
     <div class="media-object-section">
     <p>“In many areas, men strive to be the best—world-class, even—but life can
 
@@ -150,6 +145,9 @@ of the National Center for Fathering<h5></p>
 </div>
 </div>
 
+</section>
+ <hr>
+<section id="about-me">
 </section>
 
 <div class="share-book">
