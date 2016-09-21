@@ -28,7 +28,7 @@ CSS file.
 //@include foundation-flex-classes;
 //@include foundation-flex-grid;
 @include foundation-typography;
-@include foundation-forms;
+//@include foundation-forms;
 @include foundation-button;
 //@include foundation-visibility-classes;
 //@include foundation-float-classes;
@@ -36,7 +36,7 @@ CSS file.
 //@include foundation-accordion-menu;
 //@include foundation-badge;
 //@include foundation-breadcrumbs;
-//@include foundation-button-group;
+  @include foundation-button-group;
 //@include foundation-callout;
 //@include foundation-close-button;
 //@include foundation-drilldown-menu;
@@ -45,7 +45,7 @@ CSS file.
 //@include foundation-flex-video;
 //@include foundation-label;
 //@include foundation-media-object;
-//@include foundation-menu;
+  @include foundation-menu;
 //@include foundation-menu-icon;
 //@include foundation-off-canvas;
 //@include foundation-orbit;
@@ -60,7 +60,7 @@ CSS file.
 //@include foundation-thumbnail;
 //@include foundation-title-bar;
 //@include foundation-tooltip;
-//@include foundation-top-bar;
+  @include foundation-top-bar;
 
 
 // Import your custom styles
@@ -74,5 +74,3 @@ CSS file.
 
 // Import MY Shizz
 @import "custom";
-
-
