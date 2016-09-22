@@ -1267,12 +1267,12 @@ h6 {
     font-size: 1rem; } }
 
 a {
-  color: #2199e8;
+  color: #6a6a6a;
   text-decoration: none;
   line-height: inherit;
   cursor: pointer; }
   a:hover, a:focus {
-    color: #1585cf; }
+    color: #5b5b5b; }
   a img {
     border: 0; }
 
@@ -2522,10 +2522,10 @@ to display none.
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
   border-radius: 0px; }
 
-.woocommerce button.button.alt {
+.woocommerce button.button.alt, .woocommerce a.button.alt {
   background-color: #374e58; }
 
-.woocommerce button.button.alt:hover {
+.woocommerce button.button.alt:hover, .woocommerce a.button.alt:hover {
   background-color: #4e6f7e; }
 
 .woocommerce div.product p.price, .woocommerce div.product span.price {
