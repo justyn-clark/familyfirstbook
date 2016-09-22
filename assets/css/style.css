@@ -2524,15 +2524,23 @@ to display none.
 .footer {
   text-align: center; }
 
-.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
   border-radius: 0px; }
 
-.woocommerce button.button.alt, .woocommerce a.button.alt {
+.woocommerce button.button.alt,
+.woocommerce a.button.alt,
+.woocommerce input.button.alt {
   background-color: #374e58; }
 
-.woocommerce button.button.alt:hover, .woocommerce a.button.alt:hover {
+.woocommerce button.button.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce input.button.alt:hover {
   background-color: #4e6f7e; }
 
-.woocommerce div.product p.price, .woocommerce div.product span.price {
+.woocommerce div.product p.price,
+.woocommerce div.product span.price {
   color: #444;
   font-size: 1.45em; }
