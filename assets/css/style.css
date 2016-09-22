@@ -2474,6 +2474,22 @@ to display none.
 .menu > li > a {
   color: #0a0a0a; }
 
+.menu .active > a {
+  color: #0a0a0a;
+  background: none;
+  font-weight: inherit; }
+
+.page-template-hero-homepage #content #inner-content {
+  padding: 1rem 7rem; }
+
+.Family_First_Art {
+  width: 81%;
+  margin-bottom: 24px; }
+
+@media only screen and (max-width: 640px) {
+  .page-template-hero-homepage #content #inner-content {
+    padding: 1rem 1rem; } }
+
 .share-book {
   text-align: center;
   margin-bottom: 24px; }
@@ -2507,17 +2523,6 @@ to display none.
 
 .footer {
   text-align: center; }
-
-.page-template-hero-homepage #content #inner-content {
-  padding: 1rem 7rem; }
-
-.Family_First_Art {
-  width: 81%;
-  margin-bottom: 24px; }
-
-@media only screen and (max-width: 640px) {
-  .page-template-hero-homepage #content #inner-content {
-    padding: 1rem 1rem; } }
 
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
   border-radius: 0px; }

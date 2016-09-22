@@ -2,6 +2,30 @@
     color: $black;
 }
 
+.menu .active > a {
+    color: #0a0a0a;
+    background: none;
+    font-weight: inherit;
+}
+
+.page-template-hero-homepage #content #inner-content {
+    padding: 1rem 7rem;
+}
+
+.Family_First_Art {
+    width: 81%;
+    margin-bottom: 24px;
+}
+
+
+@media only screen and (max-width: 640px) {
+    .page-template-hero-homepage #content #inner-content {
+        padding: 1rem 1rem;
+    }
+}
+
+// Social Share
+
 .share-book {
     text-align: center;
     margin-bottom: 24px;
@@ -35,22 +59,9 @@
     background: #183030;
 }
 
+// Footer
+
 .footer {
     text-align: center;
 }
 
-.page-template-hero-homepage #content #inner-content {
-    padding: 1rem 7rem;
-}
-
-.Family_First_Art {
-    width: 81%;
-    margin-bottom: 24px;
-}
-
-
-@media only screen and (max-width: 640px) {
-.page-template-hero-homepage #content #inner-content {
-        padding: 1rem 1rem;
-    }
-}
