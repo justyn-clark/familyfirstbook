@@ -2518,3 +2518,16 @@ to display none.
 @media only screen and (max-width: 640px) {
   .page-template-hero-homepage #content #inner-content {
     padding: 1rem 1rem; } }
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+  border-radius: 0px; }
+
+.woocommerce button.button.alt {
+  background-color: #374e58; }
+
+.woocommerce button.button.alt:hover {
+  background-color: #4e6f7e; }
+
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+  color: #444;
+  font-size: 1.45em; }
