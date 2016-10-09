@@ -45,3 +45,11 @@ add_action( 'after_setup_theme', 'woocommerce_support' );
 function woocommerce_support() {
     add_theme_support( 'woocommerce' );
 }
+
+function addUploadMimes($mimes) {
+	$mimes = array_merge($mimes, array(
+		'epub|mobi' => 'application/octet-stream'
+	));
+	return $mimes;
+}
+add_filter('upload_mimes', 'addUploadMimes');
