@@ -1,26 +1,35 @@
 .woocommerce #respond input#submit,
 .woocommerce a.button,
 .woocommerce button.button,
-.woocommerce input.button {
-  border-radius: 0px;
-}
-
+.woocommerce input.button,
 .woocommerce button.button.alt,
 .woocommerce a.button.alt,
-.woocommerce input.button.alt{
+.woocommerce input.button.alt {
+  border-radius: 0px;
   background-color: #374e58;
+  color: $white;
 }
 
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
 .woocommerce button.button.alt:hover,
 .woocommerce a.button.alt:hover,
-.woocommerce input.button.alt:hover{
+.woocommerce input.button.alt:hover {
+  border-radius: 0px;
   background-color: #4e6f7e;
+  color: $white;
 }
 
 .woocommerce div.product p.price,
 .woocommerce div.product span.price {
   color: #444;
   font-size: 1.45em;
+}
+
+.woocommerce ul.products li.product .price {
+  color: #444;
 }
 
 .woocommerce-info {
