@@ -43,7 +43,7 @@
 
     <p><b>“If Jesus Christ were sitting at your dinner table, observing you as a father and a husband, would you be proud of your behavior?”</b></p>
     <p>
-This is the question Curtis R. Estes asked himself eighteen months ago and the honest answer was, “No.” In this powerful book, Curtis reflects on what it means to raise children in the way of the Lord and how husbands can and should support and honor their wives as the role models of warmth, compassion, and love.
+This is the question Curtis asked himself eighteen months ago and the honest answer was, “No.” In this powerful book, Curtis reflects on what it means to raise children in the way of the Lord and how husbands can and should support and honor their wives as the role models of warmth, compassion, and love.
 </p>
 </div>
     </section>
