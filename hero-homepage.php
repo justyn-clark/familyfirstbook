@@ -29,18 +29,9 @@
     </div>
 
     <div class="large-12 columns text-center">
-    <p>I have written this book for husbands and fathers of all faiths and
-    beliefs. The concepts of love, sharing, listening, and understanding
-    are presented with the hope that each reader can feel my heart as
-    I share my story of continued striving to become a hero at home.
-    My deepest wish is that you will respect my personal journey and be
-    inspired to make your own changes in your relationships with your family members.</p>
+    <p>I have written this book for husbands and fathers of all faiths and beliefs. The concepts of love, sharing, listening, and understanding are presented with the hope that each reader can feel my heart as I share my story of continued striving to become a hero at home. My deepest wish is that you will respect my personal journey and be inspired to make your own changes in your relationships with your family members.</p>
 
-<p>I am honored to share my story with you. I hope you will benefit
-greatly from what I have experienced. My encouragement for you is
-to become the very best husband and father you can be. Wishing you
-a wonderful year of exciting growth for you and your family!
-    With deepest respect for you and the journey we share.</p>
+<p>I am honored to share my story with you. I hope you will benefit greatly from what I have experienced. My encouragement for you is to become the very best husband and father you can be. Wishing you a wonderful year of exciting growth for you and your family! With deepest respect for you and the journey we share.</p>
 
     </div>
 
@@ -49,12 +40,10 @@ a wonderful year of exciting growth for you and your family!
 <div class="large-12 columns text-center" >
     <h2>ABOUT THE BOOK</h2>
 <img class="Family_First_Art" src="wp-content/themes/familyfirstbook/assets/images/Family_First_Art.jpg" />
+
+    <p><b>“If Jesus Christ were sitting at your dinner table, observing you as a father and a husband, would you be proud of your behavior?”</b></p>
     <p>
-This is the question Curtis R. Estes asked himself eighteen months ago—and
-the honest answer was, “No.” In this powerful book, Curtis reflects on what it
-means to raise children in the way of the Lord and how husbands can and
-should support and honor their wives as the role models of warmth,
-    compassion, and love.
+This is the question Curtis R. Estes asked himself eighteen months ago and the honest answer was, “No.” In this powerful book, Curtis reflects on what it means to raise children in the way of the Lord and how husbands can and should support and honor their wives as the role models of warmth, compassion, and love.
 </p>
 </div>
     </section>
@@ -69,12 +58,8 @@ should support and honor their wives as the role models of warmth,
     <h2>REVIEWS</h2>
     <div class="media-object stack-for-small">
     <div class="media-object-section">
-     </div>
-    <div class="media-object-section">
 
-<p>“I became a father at a young age, and it took me years to find my rhythm.
-
-    I wish I had read Family First right off the bat!”
+<p>“I became a father at a young age, and it took me years to find my rhythm. I wish I had read Family First right off the bat!”
 
 <h5><strong>Metta World Peace</strong> | Los Angeles Lakers<h5></p>
 </div>
@@ -82,15 +67,7 @@ should support and honor their wives as the role models of warmth,
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-     </div>
-    <div class="media-object-section">
-    <p>“Curtis is someone who seeks to be successful in all aspects of his life.
-
-    He has already written about being a successful professional, and Fam-
-ily First is his first foray into writing about what it takes to be a devoted
-
-father and loving husband. His book provides wonderful stories and in-
-    sights that are valuable to anyone who is a parent or spouse.”
+    <p>“Curtis is someone who seeks to be successful in all aspects of his life. He has already written about being a successful professional, and Family First is his first foray into writing about what it takes to be a devoted father and loving husband. His book provides wonderful stories and in sights that are valuable to anyone who is a parent or spouse.”
 
 <h5><strong>Greg Oberland</strong> | President of Northwestern Mutual<h5></p>
 </div>
@@ -98,29 +75,14 @@ father and loving husband. His book provides wonderful stories and in-
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-     </div>
-    <div class="media-object-section">
-    <p>“Curtis Estes is successful in the financial sense, but what about his family?
-
-    His book, Family First, chronicles another aspect of his life, as he comes
-
-to realize there is something more important than living the comfortable
-
-American life. His transparent and forthright efforts to become a humble
-
-husband and proactive father will inspire you. I am grateful to know Cur-
-tis and to support his new discovery.”
+    <p>“Curtis Estes is successful in the financial sense, but what about his family? His book, Family First, chronicles another aspect of his life, as he comes to realize there is something more important than living the comfortable American life. His transparent and forthright efforts to become a humble husband and proactive father will inspire you. I am grateful to know Curtis and to support his new discovery.”
 <h5><strong>Ken Canfield</strong> | Ph.D., founder of the National Center for Fathering<h5></p>
 </div>
 </div>
 
      <div class="media-object stack-for-small">
     <div class="media-object-section">
-     </div>
-    <div class="media-object-section">
-    <p>“A powerful reminder that being a parent and husband isn’t about the
-
-work/family balance, but about the prioritization of everything.”
+    <p>“A powerful reminder that being a parent and husband isn’t about the work/family balance, but about the prioritization of everything.”
 
 <h5><strong>Jeff Stibel</strong> | Vice chairman of Dun and Bradstreet<h5></p>
 </div>
@@ -128,20 +90,9 @@ work/family balance, but about the prioritization of everything.”
 
 <div class="media-object stack-for-small">
     <div class="media-object-section">
-     </div>
-    <div class="media-object-section">
-    <p>“In many areas, men strive to be the best—world-class, even—but life can
+    <p>“In many areas, men strive to be the best—world-class, even—but life can get in the way of being great husbands and fathers. With an unmatched boldness and a genuine desire to seek the truth, Curtis Estes sets out to give his family his very best, just as God would have us all do in our most important leadership role as husbands and fathers.”
 
-get in the way of being great husbands and fathers. With an unmatched
-
-boldness and a genuine desire to seek the truth, Curtis Estes sets out to
-
-give his family his very best, just as God would have us all do in our most
-
-important leadership role as husbands and fathers.”
-
-<h5><strong>Dave McLurg</strong> | Chief Executive Officer
-of the National Center for Fathering<h5></p>
+<h5><strong>Dave McLurg</strong> | Chief Executive Officer of the National Center for Fathering<h5></p>
 </div>
 </div>
 
