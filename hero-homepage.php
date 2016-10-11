@@ -36,6 +36,7 @@
     </div>
 
     <hr>
+
 <section id="about">
 <div class="large-12 columns text-center" >
     <h2>ABOUT THE BOOK</h2>
